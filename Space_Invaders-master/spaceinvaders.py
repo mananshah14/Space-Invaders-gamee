@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-
-# Space Invaders
-# Created by Lee Robinson
-
 from pygame import *
 import sys
 from os.path import abspath, dirname
